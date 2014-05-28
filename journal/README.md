@@ -12,7 +12,7 @@ Journaux LinuxFr.org
 * [Exposer un ou des modules Python sur D-Bus [proof of concept]](exposer-un-ou-des-modules-python-sur-d-bus-proof-of-concept.md) _(2013-03-02T23:59:47+01:00)_
 * [SunWizard.NET n'est (presque) plus](sunwizard-net-n-est-presque-plus.md) _(2012-11-23T23:20:30+01:00)_
 * [[Science Fiction] La loi de Kharnov](science-fiction-la-loi-de-kharnov.md) _(2012-09-17T21:24:30+02:00)_
-* [sortie d'Unvanquished alpha 7, et une riche rétrospective (en anglais)](sortie-d-unvanquished-alpha-7-et-une-riche-retrospective-en-anglais.md) _(2012-09-03T19:34:19+02:00)_
+* [Sortie d'Unvanquished alpha 7, et une riche rétrospective (en anglais)](sortie-d-unvanquished-alpha-7-et-une-riche-retrospective-en-anglais.md) _(2012-09-03T19:34:19+02:00)_
 * [Tears of Steel, le nouveau nom du projet Mango](tears-of-steel-le-nouveau-nom-du-projet-mango.md) _(2012-07-16T19:04:42+02:00)_
 * [Sortie de Punix beta5, et d'un émulateur 68k en javascript !](sortie-de-punix-beta5-et-d-un-emulateur-68k-en-javascript.md) _(2012-04-28T14:16:13+02:00)_
 
