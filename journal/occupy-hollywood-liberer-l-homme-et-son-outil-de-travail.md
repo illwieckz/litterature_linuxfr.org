@@ -53,9 +53,9 @@ Si le système essayé par la Fondation Blender n’a pas encore fait ses preuve
 
 ## Superproduction et contribution citoyenne, l’exemple de Cristeros
 
-Pour rester dans l’actualité, je cite un troisième projet de long métrage. Celui-là a été financé et réalisé selon les moyens traditionnels du cinéma, et vient tout juste de sortir en salles en France : _[Cristeros](http://www.cristeros-lefilm.fr/)_.
+Pour rester dans l’actualité, je cite un troisième projet de long métrage. Celui-là a été financé et réalisé selon les moyens traditionnels du cinéma, avec un budget conséquent (12 000 000 $, environ 8 780 500 €), et vient tout juste de sortir en salles en France : _[Cristeros](http://www.cristeros-lefilm.fr/)_.
 
-Ce n’est pas un film confidentiel, ni une farce simplette façon _[Big Buck Bunny](http://www.bigbuckbunny.org/)_. Cristeros est une production américaine tournée au mexique et réalisé par _Dean Wright_ (qui a déjà travaillé sur _Narnia_ par exemple, pas un débutant) avec comme acteurs _Eva Longoria_, _Andy García Menéndez_, _Oscar Isaac_ (attendu dans le prochain Star Wars), ainsi que _Peter O’Tool_ (_Lawrence d'Arabie_) qui termine là ses 53 ans de carrières… Ce ne sont pas des anonymes ! À cela il faut ajouter le compositeur _James Horner_ (_Titanic_, _Apollo 13_, mais aussi _Avatar_, _Apocalypto_, _Stalingrad_, _Braveheart_…), tout ce qu’il faut pour faire un film épique !
+Ce n’est pas un film confidentiel, ni une farce simplette façon _[Big Buck Bunny](http://www.bigbuckbunny.org/)_. Cristeros est une production américaine tournée au mexique et réalisé par _Dean Wright_ (qui a déjà collaboré à _Narnia_ ou au _Seigneur des anneaux_ par exemple, pas un débutant) avec comme acteurs _Eva Longoria_, _Andy García Menéndez_, _Oscar Isaac_ (attendu dans le prochain _Star Wars_), ainsi que _Peter O’Toole_ (_Lawrence d’Arabie_) qui termine là ses 53 ans de carrières… Ce ne sont pas des anonymes ! À cela il faut ajouter le compositeur _James Horner_ (_Titanic_, _Apollo 13_, mais aussi _Avatar_, _Apocalypto_, _Stalingrad_, _Braveheart_…), tout ce qu’il faut pour faire un film épique !
 
 Alors certes, une bonne équipe ne fait pas un bon film, mais vu qu’il a pris la première place au Box Office mexicain et été plutôt bien reçu aux États-Unis, on peut supposer que la qualité est au rendez-vous…
 
@@ -69,7 +69,7 @@ Ni une ni deux, quelques billets d’avion, un dossier sous le bras, ce fut fait
 
 Chose inhabituelle, le [site officiel](http://www.cristeros-lefilm.fr/) affichait des mois avant la diffusion légale _« Vous avez déjà vu le film ? Laissez-votre commentaire »_, les diffuseurs avaient très bien compris que contrairement aux idées reçues, ce sont ceux qui ont déjà vu le film, même en le piratant, qui étaient leurs meilleurs alliés.
 
-Ils ont osés encore plus que ça, puisqu’ils ont invités ces mêmes « pirates » à coller des affiches pour le film, et comme je l’ai dit plus tôt, ce sont ces mêmes « pirates » qui sont allés démarcher les salles de cinémas pour obtenir les projections…
+Ils ont osés encore plus que ça, puisqu’ils ont invités ces mêmes « pirates » à [coller des affiches pour le film](http://www.cristeros-lefilm.fr/participez-a-la-promotion-du-film.html), et comme je l’ai dit plus tôt, ce sont ces mêmes « pirates » qui sont allés démarcher les salles de cinémas pour obtenir les projections…
 
 _Cristeros_ est finalement sorti avec beaucoup de frilosité dans seulement 22 salles françaises, avec souvent des projections uniques, et avec parfois beaucoup de mépris (comme au _Majestic Passy_ qui avait programmé pour ce film une séance unique dimanche dernier à 11h, c’est à dire quand son plus gros public est à la messe). À cela il faut ajouter des dysfonctionnements étranges comme le site _Allociné_ qui ne référençait que 3 séances dans des cinémas d’arts et d’essai en banlieue parisienne quand des gros cinémas (comme certains _UGC_) le projetaient dans la capitale… De plus, ce film n’était pas spécialement aidé par les petits cinémas, car sortant en même temps que le lancement du festival de Cannes, il s’était ainsi coupé de plusieurs cinémas d’arts et d’essais qui calent leur programmation sur le festival…
 
@@ -87,11 +87,11 @@ Chose rare dans l’industrie du cinéma, c’est le public qui est allé cherch
 
 Il y a plein de films qui ne sortent jamais en France, ou avec beaucoup de retard. Par exemple, _[L’œuf de l’ange](http://fr.wikipedia.org/wiki/L%27%C5%92uf_de_l%27ange)_ ne sera probablement jamais projeté en France ni vendu en boutique. [_Nausicaä de la vallée du vent_](http://fr.wikipedia.org/wiki/Nausica%C3%A4_de_la_vall%C3%A9e_du_vent_%28film_d%27animation%29) a mit 22 ans a sortir en salles en France, quand le système de distribution s’est enfin rendu compte que le public était là.
 
-J’ai vu _L’œuf de l’ange_ (merci l’import), et j’ai aussi vu _Nausicaä_ et _Cristeros_ bien avant qu’il ne soit diffusé en France, et quand je les ai vu, je croyais sincèrement qu’ils ne seraient jamais diffusés en France.
+J’ai vu _L’œuf de l’ange_ (merci l’import), et j’ai aussi vu _Nausicaä_ et _Cristeros_ bien avant qu’ils ne soient diffusés en France, et quand je les ai vu, je croyais sincèrement qu’ils ne seraient jamais diffusés en France.
 
 La différence entre Cristeros et ces autres films, c’est que quand le public a découvert le film, il n’a pas attendu que le système de diffusion décide ou non de le diffuser : c’est le public qui s’en est occupé.
 
-Si GooseBerry ne peut être réalisé sans la participation de son public, on voit qu’un film réalisé traditionnellement comme Cristeros a besoin de l’intervention de son public pour être projeté.
+Si Gooseberry ne peut être réalisé sans la participation de son public, on voit qu’un film réalisé traditionnellement comme Cristeros a besoin de l’intervention de son public pour être projeté.
 
 D’un côté on se demande si le public seul peut fournir les moyens de réaliser un long métrage, de l’autre on se demande si l’on peut se passer de lui…
 
@@ -99,9 +99,9 @@ D’un côté on se demande si le public seul peut fournir les moyens de réalis
 
 Je cite donc trois projets, un film libre déjanté, un documentaire historique indépendant, et une fresque historique à gros budget.
 
-C’est vrai qu’à coté du [sujet de _Cristeros_](http://fr.wikipedia.org/wiki/Guerre_des_Cristeros) ou du [sujet de _La rébellion cachée_](http://fr.wikipedia.org/wiki/Guerre_de_Vend%C3%A9e), et tous les scénarios imaginables que l’on peut tirer de ces faits historiques, le sujet de GooseBerry est pauvre.
+C’est vrai qu’à coté du [sujet de _Cristeros_](http://fr.wikipedia.org/wiki/Guerre_des_Cristeros) ou du [sujet de _La rébellion cachée_](http://fr.wikipedia.org/wiki/Guerre_de_Vend%C3%A9e), et tous les scénarios imaginables que l’on peut tirer de ces faits historiques, le sujet de Gooseberry est pauvre.
 
-Dans un [récent journal](http://linuxfr.org/users/kd2/journaux/mozilla-fait-avancer-le-web-et-ajoute-les-drm-a-firefox) ayant trait à la diffusion de film sous [DRM](http://fr.wikipedia.org/wiki/Gestion_des_droits_num%C3%A9riques), devnewton< [proposait comme solution à ce problème](http://linuxfr.org/users/kd2/journaux/mozilla-fait-avancer-le-web-et-ajoute-les-drm-a-firefox#comment-1537958) de l’attaquer à la source en produisant des films libre, avant d’[ajouter](http://linuxfr.org/users/kd2/journaux/mozilla-fait-avancer-le-web-et-ajoute-les-drm-a-firefox#comment-1537972) qu’il faudrait _« peut être prendre un sujet plus intéressant que l'histoire de Michel le mouton »_.
+Dans un [récent journal](http://linuxfr.org/users/kd2/journaux/mozilla-fait-avancer-le-web-et-ajoute-les-drm-a-firefox) ayant trait à la diffusion de film sous [DRM](http://fr.wikipedia.org/wiki/Gestion_des_droits_num%C3%A9riques), devnewton< [proposait comme solution à ce problème](http://linuxfr.org/users/kd2/journaux/mozilla-fait-avancer-le-web-et-ajoute-les-drm-a-firefox#comment-1537958) de l’attaquer à la source en produisant des films libre, avant d’[ajouter](http://linuxfr.org/users/kd2/journaux/mozilla-fait-avancer-le-web-et-ajoute-les-drm-a-firefox#comment-1537972) qu’il faudrait _« peut être prendre un sujet plus intéressant que l’histoire de Michel le mouton »_.
 
 Alors oui, le gros lapin de _Big Buck Bunny_ était rigolo 5 minutes, mais j’aurai du mal à imaginer la même chose en long métrage. Remplacer le lapin par un mouton ne change pas ce constat.
 
@@ -115,7 +115,7 @@ Mais la Blender Fondation n’a peut-être pas de gros soutiens sur leurs scéna
 
 Ces soutiens ne font pas tout, car si un court métrage peut se suffire d’un scénario simple, c’est plus difficile dans le cas d’un long métrage, mais jusque là, ils ont été bien aidés.
 
-Le 28 mars, [Ton Roosendaal](http://fr.wikipedia.org/wiki/Ton_Roosendaal) avait publié un [long et instructif billet](http://www.blender.org/press/project-gooseberry-why-it-matters/) (traduction [ici](blenderlounge.fr/gooseberry-pourquoi-cest-important/)) où il expliquait pourquoi le projet GooseBerry est important.
+Le 28 mars, [Ton Roosendaal](http://fr.wikipedia.org/wiki/Ton_Roosendaal) avait publié un [long et instructif billet](http://www.blender.org/press/project-gooseberry-why-it-matters/) (traduction [ici](blenderlounge.fr/gooseberry-pourquoi-cest-important/)) où il expliquait pourquoi le projet Gooseberry est important.
 
 ## Rendre l’œuvre à son auteur
 
@@ -151,13 +151,13 @@ La Fondation Blender a subie elle aussi ce travers : la majorité de ses court
 
 La Fondation Blender a eu cependant beaucoup de chance de pouvoir trouver un compositeur comme Jan Morgenstern qui n’ai pas signé de contrat avec une société telle que la SACEM en France, car dans ce cas, il n’aurait même pas pu autoriser la Fondation Blender à libérer le montage final. Ils sont rares les compositeurs qui ne cèdent par leur travail passé, présent et futur à une société d’ayant droit !
 
-Pour éviter ce problème, on peut se tourner vers l’excellent travail que fournissent des initiatives comme celles de _[MusOpen](https://musopen.org/)_ (voir les pages du _[Musopen Symphony Orchestra](https://musopen.org/music/performer/musopen-symphony/)_ et du _[Musopen String Quartet](https://musopen.org/music/performer/musopen-string-quartet/)_ pour les enregistrement déjà libérés, et [leur travail actuel d’enregistrement de Chopin](http://linuxfr.org/news/musopen-reunit-75-000-dollars-pour-liberer-chopin-et-cela-ne-fait-que-commencer)) ou encore les interprétations de _[Kimiko Ishizaka](http://kimiko-piano.com/)_ (voir le projet _[Open Goldberg Variations](http://www.opengoldbergvariations.org/)_ pour les enregistrements déjà libérés et le projet en cours _[Ba©h to Bach](https://www.kickstarter.com/projects/opengoldberg/open-well-tempered-clavier-bah-to-bach)_). Le domaine public commence enfin à s’enrichir d’enregistrements musicaux de qualité !
+Pour éviter ce problème, on peut se tourner vers l’excellent travail que fournissent des initiatives comme celles de _[MusOpen](https://musopen.org/)_ (pour les enregistrements déjà libérés, voir les pages du _[Musopen Symphony Orchestra](https://musopen.org/music/performer/musopen-symphony/)_, l’[Orchestre Philarmonique de Prague](http://www.fok.cz/en/) se [cachant probablement derrière ce nom](http://www.framablog.org/index.php/post/2012/01/05/musique-classique-libre), ainsi que la page du _[Musopen String Quartet](https://musopen.org/music/performer/musopen-string-quartet/)_, voir aussi [leur travail actuel d’enregistrement de Chopin](http://linuxfr.org/news/musopen-reunit-75-000-dollars-pour-liberer-chopin-et-cela-ne-fait-que-commencer)) ou encore les interprétations de _[Kimiko Ishizaka](http://kimiko-piano.com/)_ (voir le projet _[Open Goldberg Variations](http://www.opengoldbergvariations.org/)_ pour les enregistrements déjà libérés et le projet en cours _[Ba©h to Bach](https://www.kickstarter.com/projects/opengoldberg/open-well-tempered-clavier-bah-to-bach)_). Le domaine public commence enfin à s’enrichir d’enregistrements musicaux de qualité !
 
 Mais on ne peut pas toujours réaliser ses bandes sons avec des enregistrement historiques de musique symphonique préexistante ! On n’est pas tous [_Stanley Kubrick_](http://fr.wikipedia.org/wiki/Stanley_Kubrick#La_musique) !
 
-La musique est généralement irremplaçable dans un film ! On ne peut correctement interpréter le film [_Il était une fois dans l’Ouest_](http://fr.wikipedia.org/wiki/http://fr.wikipedia.org/wiki/Il_%C3%A9tait_une_fois_dans_l%27Ouest) si l’on n’étudie pas la musique composée par [_Ennio Morricone_](http://fr.wikipedia.org/wiki/Ennio_Morricone) pour ce film : celui qui ne prête pas attention à la musique pourrait croire, à tord, que le personnage principal de ce film est un homme ! Dans [_2001, l’Odyssée de l’espace_](http://fr.wikipedia.org/wiki/2001_:_l%E2%80%99odyss%C3%A9e_de_l%E2%80%99espace), on ne saurait dissocier la scène de l’approche de l’extrait du [_Beau Danube bleu_](http://fr.wikipedia.org/wiki/Le_beau_danube_bleu) de [_Johann Strauss_](http://fr.wikipedia.org/wiki/Johann_Strauss). Et personnellement, je ne peux imaginer [_Blade Runner_](http://fr.wikipedia.org/wiki/Blade_Runner_%28film%29) sans la musique de [_Vangelis_](http://fr.wikipedia.org/wiki/Vangelis), ni son intime _Rachel’s Song_ qui, sans être intégrée au film, ne peut être traitée séparément.
+La musique est généralement irremplaçable dans un film ! On ne peut correctement interpréter le film [_Il était une fois dans l’Ouest_](http://fr.wikipedia.org/wiki/http://fr.wikipedia.org/wiki/Il_%C3%A9tait_une_fois_dans_l%27Ouest) si l’on n’étudie pas la musique composée par [_Ennio Morricone_](http://fr.wikipedia.org/wiki/Ennio_Morricone) pour ce film : celui qui ne prête pas attention à la musique pourrait croire, à tort, que le personnage principal de ce film est un homme ! Dans [_2001, l’Odyssée de l’espace_](http://fr.wikipedia.org/wiki/2001_:_l%E2%80%99odyss%C3%A9e_de_l%E2%80%99espace), on ne saurait dissocier la scène de l’approche de l’extrait du [_Beau Danube bleu_](http://fr.wikipedia.org/wiki/Le_beau_danube_bleu) de [_Johann Strauss_](http://fr.wikipedia.org/wiki/Johann_Strauss). Et personnellement, je ne peux imaginer [_Blade Runner_](http://fr.wikipedia.org/wiki/Blade_Runner_%28film%29) sans la musique de [_Vangelis_](http://fr.wikipedia.org/wiki/Vangelis), ni son intime _Rachel’s Song_ qui, sans être intégrée au film, ne peut être traitée séparément.
 
-Une des particularités de GooseBerry est que sa bande son doit être libre, vraiment libre, pas seulement la partie mixée dans le montage audiovisuel final.
+Une des particularités de Gooseberry est que sa bande son doit être libre, vraiment libre, pas seulement la partie mixée dans le montage audiovisuel final.
 
 ## Se libérer du producteur et des contraintes du marché, l’exemple du Studio Ghibli
 
@@ -183,13 +183,13 @@ Et justement, libérer l’artiste, nourrir le domaine public, c’est aussi la 
 
 ## Libérer l’outil de travail, le travail et le travailleur
 
-Plus que réaliser un film libre, les _Open Movie Projects_ comme le projet GooseBerry sont l’occasion de développer le logiciel [Blender](http://fr.wikipedia.org/wiki/Blender).
+Plus que réaliser un film libre, les _Open Movie Projects_ comme le projet Gooseberry sont l’occasion de développer le logiciel [Blender](http://fr.wikipedia.org/wiki/Blender).
 
 Ce logiciel a la particularité d’avoir été [racheté et libéré](http://fr.wikipedia.org/wiki/Blender#Origine_et_d.C3.A9veloppement) par ses utilisateurs. C’est un des plus bel exemple de ce type, où le travailleur libère son outil de travail pour libérer son savoir faire et se libérer en tant qu’artiste.
 
 En effet, il est dommageable de voir tant de métiers liés à des logiciels propriétaires, ce qui signifie que l’artiste voit l’expression de son talent soumise au bon vouloir d’un tiers.
 
-On voit le problème que cela pose dans l’éducation, où de nombreux éditeurs proposent des ristournes temporaires (voir la gratuité complète) sur leurs logiciels, ce qui amène l’étudiant à rendre son apprentissage dépendant d’une licence. Ensuite, l’employeur doit se soumettre à cet éditeur pour déverrouiller le savoir faire de son employé…
+On voit le problème que cela pose dans l’éducation, où de nombreux éditeurs proposent des ristournes temporaires (voire la gratuité complète) sur leurs logiciels, ce qui amène l’étudiant à rendre son apprentissage dépendant d’une licence. Ensuite, l’employeur doit se soumettre à cet éditeur pour déverrouiller le savoir faire de son employé…
 
 Personnellement, je n’aime pas me former sur un logiciel non-libre, je n’aime pas que mon savoir faire soit exprimable ou réduit au silence par la seule volonté d’un tiers, qui n’est ni ma volonté ni celle de mon employeur ni celle de mon public.
 
@@ -211,12 +211,12 @@ On s’étonne parfois des budgets conséquents des projets de la fondation Blen
 
 Je termine ce long journal par une citation de Chris Marker (_La jetée_) :
 
-> Rien ne distingue les souvenirs des autres moments: ce n'est que plus tard qu'ils se font reconnaître, à leurs cicatrices.
+> Rien ne distingue les souvenirs des autres moments: ce n’est que plus tard qu’ils se font reconnaître, à leurs cicatrices.
 
 L’intelligence ne saisit rien sans mémoire, la mémoire est inutile sans intelligence. Les films comme _Cristeros_, _La rébellion cachée_ ou encore _Le vent se lève_ proposent de libérer la mémoire, la fondation Blender propose de libérer l’intelligence.
 
-C’est là tout le sens du projet GooseBerry, qui ne fait que commencer, et qui attend votre soutien.
+C’est là tout le sens du projet Gooseberry, qui ne fait que commencer, et qui attend votre soutien.
 
 PS : les autres œuvres citées dans ce journal sont également dignes d’intérêt. ;-)
 
-[^1]: Il semble qu’il y ait eu quelques désistements ensuite, mais rien de dramatique.
+[^1]: Il semble qu’il y ait eu quelques désistements depuis, mais rien de dramatique.
