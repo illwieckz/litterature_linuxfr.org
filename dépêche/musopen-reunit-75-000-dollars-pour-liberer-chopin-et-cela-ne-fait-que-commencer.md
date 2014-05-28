@@ -9,6 +9,7 @@ Tags:    musique, domaine_public, art_libre et cc0
 Score:   61
 ```
 
+
 [MusOpen](https://musopen.org/) est, comme écrit sur leur site web, _une association à but non lucratif qui œuvre à rendre accessible la musique en créant des ressources libres et du matériel pédagogique, fournir des enregistrements, partitions et manuels scolaires, sans restriction de droit d’auteur._
 
 En quelques mots, _leur mission est de libérer la musique._
