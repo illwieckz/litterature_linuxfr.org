@@ -24,14 +24,14 @@ http://www.kickstarter.com/projects/293573191/open-well-tempered-clavier-bah-to-
 
 ----
 
-[KickStarter: Set Chopin Free](http://www.kickstarter.com/projects/Musopen/set-chopin-free)
-[De la musique symphonique libre ? enfin ?](http://linuxfr.org/news/de-la-musique-symphonique-libre-enfin)
-[Les Variations Goldberg dans le domaine public](http://linuxfr.org/news/les-variations-goldberg-dans-le-domaine-public)
-[MusOpen: Set Music Free!](http://musopen.org)
-[MusOpen Symphony Orchestra](http://musopen.org/music/by/performer/Musopen-Symphony-Orchestra)
-[MusOpen String Quartet](http://musopen.org/music/performer/Musopen-String-Quartet)
-[MusOpen: Shelley Katz](http://musopen.org/music/performer/shelley-katz)
-[Open Goldberg Variations](http://www.opengoldbergvariations.org)
+* [KickStarter: Set Chopin Free](http://www.kickstarter.com/projects/Musopen/set-chopin-free)
+* [De la musique symphonique libre ? enfin ?](http://linuxfr.org/news/de-la-musique-symphonique-libre-enfin)
+* [Les Variations Goldberg dans le domaine public](http://linuxfr.org/news/les-variations-goldberg-dans-le-domaine-public)
+* [MusOpen: Set Music Free!](http://musopen.org)
+* [MusOpen Symphony Orchestra](http://musopen.org/music/by/performer/Musopen-Symphony-Orchestra)
+* [MusOpen String Quartet](http://musopen.org/music/performer/Musopen-String-Quartet)
+* [MusOpen: Shelley Katz](http://musopen.org/music/performer/shelley-katz)
+* [Open Goldberg Variations](http://www.opengoldbergvariations.org)
 
 ----
 
