@@ -5,7 +5,9 @@ Authors: Thomas DEBESSE
 Date:    2014-05-25T05:54:07+02:00
 License: CC by-sa
 Tags:    gooseberry, art_libre, blender, musique_libre, fondation_blender, modèle_économique et cinéma
+Score:   44
 ```
+
 
 # Le financement participatif est-il viable pour réaliser un long-métrage ?
 
