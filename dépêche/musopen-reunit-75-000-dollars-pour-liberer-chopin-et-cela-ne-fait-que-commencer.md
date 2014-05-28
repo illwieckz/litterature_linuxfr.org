@@ -110,8 +110,7 @@ De nombreux et talentueux musiciens seront mis à contribution, des étudiants e
 L’objectif minimal de la campagne de financement est de 75 000 dollars, montant qui est déjà atteint, mais il n’est pas inutile de continuer à participer au financement puisque le montant final déterminera de plus grandes exigences et diverses prestations supplémentaires : 
 
 
-* 85 000 $ - Embaucher des compositeurs pour créer et publier de nouvelles musiques dans le domaine public. Ce ne sera pas limité à un genre, et tous les compositeurs seront invités à faire don de leurs observations afin que nous bénéficierons de la musique du domaine beaucoup plus public.
-
+* 85 000 $ - Embaucher des compositeurs pour créer et publier de nouvelles musiques dans le domaine public.
 
 * 90 000 $ - Réaliser un système de demande de musique et d’appel d’offres collaboratif répartissant les coûts entre tous les intéressés.
 
