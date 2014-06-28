@@ -189,7 +189,7 @@ Plus que réaliser un film libre, les _Open Movie Projects_ comme le projet Goos
 
 Ce logiciel a la particularité d’avoir été [racheté et libéré](http://fr.wikipedia.org/wiki/Blender#Origine_et_d.C3.A9veloppement) par ses utilisateurs. C’est un des plus bel exemple de ce type, où le travailleur libère son outil de travail pour libérer son savoir faire et se libérer en tant qu’artiste.
 
-En effet, il est dommageable de voir tant de métiers liés à des logiciels propriétaires, ce qui signifie que l’artiste voit l’expression de son talent soumise au bon vouloir d’un tiers.
+En effet, il est dommageable de voir tant de métiers liés à des logiciels propriétaires, ce qui signifie que l’artiste voit l’expression de son talent assujettie au bon vouloir d’un tiers.
 
 On voit le problème que cela pose dans l’éducation, où de nombreux éditeurs proposent des ristournes temporaires (voire la gratuité complète) sur leurs logiciels, ce qui amène l’étudiant à rendre son apprentissage dépendant d’une licence. Ensuite, l’employeur doit se soumettre à cet éditeur pour déverrouiller le savoir faire de son employé…
 
