@@ -162,7 +162,7 @@ Ce n’est pas tout à fait DOS, mais étant donné le lien étroit entre DOS et
 
 ### DOSEMU
 
-Un peu comme DOSBox, DOSEMU visait à permettre des applications sous Linux. DOSBox réalisait ceci en fournissant une couche de compatibilité pour un véritable système d’exploitation comme FreeDOS. Bien que pleinement fonctionnel et toujours disponible dans certaines distributions Linux aujourd’hui, le développement semble s’être arrêté en 2012.
+Un peu comme DOSBox, DOSEMU visait à permettre d’exécuter des applications DOS sous Linux. DOSEMU réalisait ceci en fournissant une couche de compatibilité pour un véritable système d’exploitation comme FreeDOS. Bien que pleinement fonctionnel et toujours disponible dans certaines distributions Linux aujourd’hui, le développement semble s’être arrêté en 2012.
 
 
 # Cette libération peut-elle profiter au projet FreeDOS ?
